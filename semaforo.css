@@ -1,0 +1,31 @@
+#div1 {
+  background-color: rgb(0, 0, 0);
+  width: 100px;
+  height: 230px;
+  padding-top: 20px;
+  border-radius: 10px;
+}
+
+#vermelho {
+  background-color: rgb(255, 0, 0);
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  margin-left: 20px;
+}
+#amarelo {
+  background-color: yellow;
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+#verde {
+  background-color: green;
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
